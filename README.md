@@ -57,6 +57,8 @@ Creates a new instance of the `Asciifier` class.
  - `pixels` (Array|String): An array or string containing the characters used for converting the pixels in strings (default: `" .,:;i1tfLCG08@"`).
  - `reverse` (Boolean): If `true`, the pixels will be reversed creating a *negative image* effect (default: `false`).
  - `colored` (Boolean): If `true`, the output will contain ANSI styles (default: `true`).
+ - `bg` (Boolean): If `true`, the background color will be used for coloring (default: false).
+ - `fg` (Boolean): If `true`, the foreground color will be used for coloring (default: true).
 
 ### `asciify(pixel, opts)`
 Calculates the best character to be used for that specific pixel.

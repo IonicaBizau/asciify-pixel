@@ -25,6 +25,7 @@
   "dependencies": {
     "couleurs": "^5.2.1",
     "deffy": "^2.2.1",
+    "pixel-class": "^1.0.0",
     "ul": "^5.2.1"
   }
 }

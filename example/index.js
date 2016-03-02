@@ -8,7 +8,7 @@ console.log(asciifyPixel({
 }, {
     pixels: " .;#@"
 }));
-// #
+// @
 
 const asciifier = new asciifyPixel.Asciifier({
     pixels: " .#"
@@ -24,10 +24,10 @@ console.log(asciifier.asciify({
 
 console.log(asciifier.asciify({
     r: 255
-  , g: 255
-  , b: 255
+  , g: 0
+  , b: 0
 }, {
     // Override the colored option
     colored: true
 }).toString());
-// #
+// .

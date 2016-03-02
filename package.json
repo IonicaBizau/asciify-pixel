@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Asciifies a pixel object.",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/asciify-pixel#readme",
   "dependencies": {
-    "couleurs": "^5.2.1",
+    "couleurs": "^6.0.0",
     "deffy": "^2.2.1",
     "pixel-class": "^1.0.0",
     "ul": "^5.2.1"

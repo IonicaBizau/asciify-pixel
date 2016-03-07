@@ -77,6 +77,12 @@ Calculates the best character to be used for that specific pixel.
  - `value` (Number): The sum of the rgb values multiplied by `alpha`.
  - `toString` (Function): Returns the character.
  - `char` (String): The character value.
+ - `reverse` (Boolean): Reverse the pixels. The result will be a *negative* image (default: `false`).
+ - `bg` (Boolean): Enable background coloring (default: `false`).
+ - `fg` (Boolean): Enable foreground coloring (default: `true`).
+ - `colored` (Boolean): Enable both foreground and background coloring.
+ - `white_bg` (Boolean): Turn on the white background for transparent pixels (default: `true`).
+ - `px_background` (Object): An object containing the `r` (red), `g` (green) and `b` (blue) values of the custom background color.
 
 ### `asciifyPixel(pixel, options)`
 Ascifiies a pixel.

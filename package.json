@@ -25,7 +25,9 @@
   "dependencies": {
     "couleurs": "^6.0.0",
     "deffy": "^2.2.1",
+    "pixel-bg": "^1.0.0",
     "pixel-class": "^1.0.0",
+    "pixel-white-bg": "^1.0.0",
     "ul": "^5.2.1"
   }
 }

@@ -1,14 +1,18 @@
+
 # asciify-pixel [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Downloads](https://img.shields.io/npm/dt/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Asciifies a pixel object.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save asciify-pixel
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const asciifyPixel = require("asciify-pixel");
@@ -46,7 +50,8 @@ console.log(asciifier.asciify({
 // .
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Asciifier(options)`
 Asciifer
@@ -90,15 +95,18 @@ Ascifiies a pixel.
 #### Return
 - **String** The asciified pixel.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`asciify-pixel-matrix`](https://github.com/IonicaBizau/asciify-pixel-matrix#readme)
 
-## License
+ - [`asciify-pixel-matrix`](https://github.com/IonicaBizau/asciify-pixel-matrix#readme)—Asciifies a matrix of pixels.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

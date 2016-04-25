@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Asciifies a pixel object.",
   "main": "lib/index.js",
   "scripts": {
@@ -29,5 +29,16 @@
     "pixel-class": "^1.0.0",
     "pixel-white-bg": "^1.0.0",
     "ul": "^5.2.1"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }

@@ -1,7 +1,7 @@
 
 # asciify-pixel
 
- [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][paypal-donations] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Downloads](https://img.shields.io/npm/dt/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Downloads](https://img.shields.io/npm/dt/asciify-pixel.svg)](https://www.npmjs.com/package/asciify-pixel) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Asciifies a pixel object.
 
@@ -102,6 +102,7 @@ Ascifiies a pixel.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+
 ## :moneybag: Donations
 
 Another way to support the development of my open-source modules is
@@ -111,11 +112,6 @@ to [set up a recurring donation, via Patreon][patreon]. :rocket:
 
 Thanks! :heart:
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`asciify-pixel-matrix`](https://github.com/IonicaBizau/asciify-pixel-matrix#readme)—Asciifies a matrix of pixels.
 
 ## :scroll: License
 

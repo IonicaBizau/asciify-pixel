@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Asciifies a pixel object.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "asciify",
     "lwip"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/asciify-pixel/issues"
@@ -34,12 +34,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]

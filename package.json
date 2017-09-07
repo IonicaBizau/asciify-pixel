@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Asciifies a pixel object.",
   "main": "lib/index.js",
   "scripts": {
@@ -40,6 +40,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }

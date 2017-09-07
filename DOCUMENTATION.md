@@ -7,6 +7,7 @@ Asciifer
 Creates a new instance of the `Asciifier` class.
 
 #### Params
+
 - **Object** `options`: An option that will override the defaults:
  - `pixels` (Array|String): An array or string containing the characters used for converting the pixels in strings (default: `" .,:;i1tfLCG08@"`).
  - `reverse` (Boolean): If `true`, the pixels will be reversed creating a *negative image* effect (default: `false`).
@@ -20,6 +21,7 @@ Creates a new instance of the `Asciifier` class.
 Calculates the best character to be used for that specific pixel.
 
 #### Params
+
 - **Object** `pixel`: The pixel object:
  - `r` (Number): The red value.
  - `g` (Number): The green value.
@@ -38,6 +40,7 @@ Calculates the best character to be used for that specific pixel.
 Ascifiies a pixel.
 
 #### Params
+
 - **Object** `pixel`: An pixel object to pass to the `Asciifier` class.
 - **Object** `options`: The options to pass to the `Asciifier` class.
 

@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save asciify-pixel
+# Using npm
+npm install --save asciify-pixel
+
+# Using yarn
+yarn add asciify-pixel
 ```
 
 

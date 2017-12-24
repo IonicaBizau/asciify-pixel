@@ -1,6 +1,6 @@
 {
   "name": "asciify-pixel",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Asciifies a pixel object.",
   "main": "lib/index.js",
   "scripts": {
